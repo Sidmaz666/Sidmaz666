@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **NodeJS, React, PHP, Unity**
 
-- 👨‍💻 All of my projects are available at [https://sidmaz.xyz](https://sidmaz.xyz)
-
 - 💬 Ask me about **Life and Cosmos**
 
 - 📫 How to reach me **sidmazumder8@gmail.com**
