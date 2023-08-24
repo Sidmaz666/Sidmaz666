@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **sidmazumder8@gmail.com**
 
-- ⚡ Fun fact **Nothing is Fun Anymore!**
-
 
 
 
