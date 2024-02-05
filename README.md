@@ -1,21 +1,16 @@
-<h1 align="center">Hello, I'm Sid</h1>
+<h2 align="center">Hi 🌼 I'm <i>Sidhartha Mazumder</i></h2>
+<div align="center">
+<img width="30%" src="https://i.giphy.com/0218ft4yXkI5O0pNn6.webp" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidmaz666&label=Profile%20views&color=0e75b6&style=flat" alt="sidmaz666" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidhartha-mazumder) 
 
-- 🌱 I’m currently learning **NodeJS, React, PHP, Unity**
-
-- 💬 Ask me about **Life and Cosmos**
-
-- 📫 How to reach me **sidmazumder8@gmail.com**
-
-
-
-
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidmaz666&show_icons=true&locale=en&layout=compact" alt="sidmaz666" /></p>
-
-<br>
-
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=sidmaz666&show_icons=true&locale=en" alt="sidmaz666" /></p>
-
-
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+<div align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sidmaz666&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidmaz666&theme=vue-dark&hide_border=true" />
+</div>
 
